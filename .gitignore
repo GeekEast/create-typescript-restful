@@ -1,0 +1,34 @@
+# deps
+node_modules/
+
+# docker volumes
+data/
+
+# test
+coverage/
+
+# Package Manager
+.npm/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# build
+dist/
+.build
+*.tgz
+*.zip
+.cache
+.webpack/
+
+# IDE
+.idea/
+
+# Mac
+.DS_Store
+
+# serverless
+./serverless
+
+# scripts error repot
+report.*.json
