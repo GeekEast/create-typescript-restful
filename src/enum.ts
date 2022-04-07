@@ -3,5 +3,5 @@ export const NODE_ENV = process.env.NODE_ENV
 
 export enum CONSTANT {
   SERVICE_NAME = "serviceName",
-  SERVICE_URL_SUFFIX = "/api/graphql/v1"
+  SERVICE_URL_SUFFIX = "/api/v1"
 }
