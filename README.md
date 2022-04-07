@@ -9,5 +9,5 @@
 | Environment        | URL                          |
 | ------------------ | ---------------------------- |
 | Local              | http://localhost:9902/api/v1 |
-| Local Swagger      | http://localhost:9902/docs   |
-| Local Swagger Json | http://localhost:9902/json   |
+| Local Swagger      | http://localhost:9903/docs   |
+| Local Swagger Json | http://localhost:9903/json   |
